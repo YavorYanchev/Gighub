@@ -73,3 +73,11 @@ D:\YAVOR\PLURALSIGHT\FullStackDotNetDeveloper\GigHub\GigHub\obj\Debug\GigHub.Mig
 D:\YAVOR\PLURALSIGHT\FullStackDotNetDeveloper\GigHub\GigHub\obj\Debug\GigHub.Migrations.OverrideConventionsForGigsAndGenres.resources
 D:\YAVOR\PLURALSIGHT\FullStackDotNetDeveloper\GigHub\GigHub\obj\Debug\GigHub.Migrations.PopulateGenresTable.resources
 D:\YAVOR\PLURALSIGHT\FullStackDotNetDeveloper\GigHub\GigHub\obj\Debug\GigHub.Migrations.AddForeignKeyPropertiesToGig.resources
+D:\YAVOR\PLURALSIGHT\FullStackDotNetDeveloper\GigHub\GigHub\obj\Debug\GigHub.Migrations.AddAttendance.resources
+D:\YAVOR\PLURALSIGHT\FullStackDotNetDeveloper\GigHub\GigHub\bin\System.Net.Http.Formatting.dll
+D:\YAVOR\PLURALSIGHT\FullStackDotNetDeveloper\GigHub\GigHub\bin\System.Web.Http.dll
+D:\YAVOR\PLURALSIGHT\FullStackDotNetDeveloper\GigHub\GigHub\bin\System.Web.Http.WebHost.dll
+D:\YAVOR\PLURALSIGHT\FullStackDotNetDeveloper\GigHub\GigHub\bin\System.Net.Http.Formatting.xml
+D:\YAVOR\PLURALSIGHT\FullStackDotNetDeveloper\GigHub\GigHub\bin\System.Web.Http.xml
+D:\YAVOR\PLURALSIGHT\FullStackDotNetDeveloper\GigHub\GigHub\bin\System.Web.Http.WebHost.xml
+D:\YAVOR\PLURALSIGHT\FullStackDotNetDeveloper\GigHub\GigHub\obj\Debug\GigHub.Migrations.AddNameToAppUser.resources
